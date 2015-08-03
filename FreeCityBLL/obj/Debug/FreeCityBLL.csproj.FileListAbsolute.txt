@@ -1,0 +1,14 @@
+F:\C#_project\FreeCity\FreeCityBLL\obj\Debug\FreeCityBLL.csprojResolveAssemblyReference.cache
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\FreeCityBLL.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\FreeCityBLL.pdb
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Dapper.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\FreeCityAPI.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\Dapper.pdb
+F:\C#_project\FreeCity\FreeCityBLL\bin\Debug\FreeCityAPI.pdb
+F:\C#_project\FreeCity\FreeCityBLL\obj\Debug\FreeCityBLL.dll
+F:\C#_project\FreeCity\FreeCityBLL\obj\Debug\FreeCityBLL.pdb

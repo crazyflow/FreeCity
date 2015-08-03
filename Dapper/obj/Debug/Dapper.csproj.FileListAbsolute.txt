@@ -1,0 +1,4 @@
+F:\C#_project\FreeCity\Dapper\bin\Debug\Dapper.dll
+F:\C#_project\FreeCity\Dapper\bin\Debug\Dapper.pdb
+F:\C#_project\FreeCity\Dapper\obj\Debug\Dapper.dll
+F:\C#_project\FreeCity\Dapper\obj\Debug\Dapper.pdb

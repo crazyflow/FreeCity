@@ -1,0 +1,4 @@
+F:\C#_project\FreeCity\FreeCityAPI\bin\Debug\FreeCityAPI.dll
+F:\C#_project\FreeCity\FreeCityAPI\bin\Debug\FreeCityAPI.pdb
+F:\C#_project\FreeCity\FreeCityAPI\obj\Debug\FreeCityAPI.dll
+F:\C#_project\FreeCity\FreeCityAPI\obj\Debug\FreeCityAPI.pdb

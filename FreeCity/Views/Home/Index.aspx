@@ -152,30 +152,6 @@
                             </div>
                         </div>
                         <div class="single-menu">
-                            <h2><a title=""><i class="fa fa-desktop"></i><span>Layouts</span></a></h2>
-                            <div class="sub-menu">
-                                <ul>
-                                    <li><a href="blank.html" title="">Blank</a>
-                                    </li>
-                                    <li><a href="collapse-sidebar-left.html" title="">Collapse Sidebar Left</a>
-                                    </li>
-                                    <li><a href="collapse-sidebar-right.html" title="">Collapse Sidebar Right</a>
-                                    </li>
-                                    <li><a href="menu-horizontal.html" title="">Menu Horizontal</a>
-                                    </li>
-                                    <li><a href="panel-left-menu-right.html" title="">Panel Left Menu Right</a>
-                                    </li>
-                                    <li><a href="panel-right-menu-left.html" title="">Panel Right Menu Left</a>
-                                    </li>
-                                    <li><a href="sidebar-left.html" title="">Sidebar left</a>
-                                    </li>
-                                    <li><a href="sidebar-right.html" title="">Sidebar Right</a>
-                                    </li>
-
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="single-menu">
                             <h2><a href="widgets.html" title=""><i class="fa fa-flask"></i><span>Widgets</span></a></h2>
                         </div>
                         <div class="single-menu">

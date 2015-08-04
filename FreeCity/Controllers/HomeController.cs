@@ -38,5 +38,15 @@ namespace FreeCity.Controllers
             return View();
         }
 
+        public ActionResult Master()
+        {
+            ViewData["VeryDay"] = user.GetVeryDayNum();
+            ViewData["VeryWeek"] = user.GetVeryWeekNum();
+            ViewData["VeryMonth"] = user.GetVeryMonthNum();
+            ViewData["AllCount"] = user.GetAllCount();
+            ViewData["EveryMonth"] = user.GetEveryMonthNum();
+            return View();
+        }
+
     }
 }

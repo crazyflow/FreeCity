@@ -292,7 +292,10 @@
     <Content Include="Scripts\skins\default\lightbox-prev.png" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\Login.aspx" />
-    <Content Include="Web.config" />
+    <Content Include="Views\Home\Master.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
